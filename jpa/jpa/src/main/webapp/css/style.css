@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #edf3f8;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #a6c4dd;
+  color: black;
+}
+
+/* Style the content */
+.content {
+  background-color: #f8f5fb;
+  padding: 10px;
+
+}
+
+label {
+display:inline-block;
+width:200px;
+margin-right:30px;
+text-align:left;
+}
+
+fieldset {
+	
+border:none;
+width:500px;
+margin:0px auto;
+}
+li.c {
+	margin:5px;
+}
